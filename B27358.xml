@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Basing-Stoak of one Mrs. Blunden, a maltsters vvife, who was buried alive relating how she was over heard by the school-boys, that were playing neer her grave, and afterwards by their master ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27358</idno><idno type="EEBO-CITATION">31355559</idno>
+  <idno type="VID">187749</idno>
+  <idno type="EEBO-PROQUEST">2248543656</idno>
+  
+            <idno type="STC">Wing N947</idno>
+            <idno type="OCLC">31355559</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Basing-Stoak of one Mrs. Blunden, a maltsters vvife, who was buried alive relating how she was over heard by the school-boys, that were playing neer her grave, and afterwards by their master ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Millet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Blunden, --  Mrs., d. 1674.</term>
+               <term type="topical_term">Burial, Premature.</term>
+               <term type="topical_term">Death, Apparent.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187749:1"/>
+            <pb facs="tcp:187749:2"/>
+            <p>News from BASING-STOAK, Of one M<seg rend="sup">rs.</seg> BLUNDEN A Maltsters VVife, who was Buried Alive.</p>
+            <p>Relating how she was over-heard by the School-Boys, that were playing neer her Grave, and afterwards by their Master, and several others to repeat these words.</p>
+            <q>
+               <hi>Take me out my Grave.</hi>
+            </q>
+            <p>Whereupon she was caused to be digged up, being found beaten and brused in a lamentable manner; and all people then conclud<g ref="char:EOLhyphen"/>ing her dead, they interred her aga<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the second time, but on the morrow, which was five days after her Funeral, tas<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing her up again, they found she had torn off her winding-sheet, and beaten her self far worse than before.</p>
+            <p>For which neglect several person were Indicted at the last Assizes held at <hi>VVinchesier,</hi> and the Town of <hi>Basing-S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oak</hi> comp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled to pay a great Fine.</p>
+            <p>Printed for <hi>John Millet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:187749:3"/>
+            <pb facs="tcp:187749:3"/>
+            <head>NEVVS From the GRAVE, &amp;c.</head>
+            <p>AT <hi>Basing-Stoke</hi> (a place sufficiently known, by reason of the battle at <hi>Basing-House</hi>) in the County of <hi>Southampton,</hi> their Lives one Mr. <hi>Blunden,</hi> a Man of considerable repute in that Town, being one that drives a great Trade in Malt, &amp;c. His Wife was a woman whom I shall not attempt to Characterize, because she was utterly a stranger to me, onely thus far I may ad<g ref="char:EOLhyphen"/>venture to describe her person, that she was a fat gross woman, and had accustomed her self many times to Drink Brandy. One Evening above the rest finding her self somewhat indisposed, she sent her Maid to an Apothecaries in the Town for a quantity
+<pb n="4" facs="tcp:187749:4"/> of Poppy-water, whether by the Direction of a Phy<g ref="char:EOLhyphen"/>sitian, or out of her own head (as we say) I know not: but she drank so great a Quantity of it, that she presently fell into a deep sleep, insomuch that all the people about her concluded her Dead, there be<g ref="char:EOLhyphen"/>ing nor the least palpitation of the heart, motion of the pulses, breathings at her Mouth or Nose, nor any sensible warmth to be discerned in the whole bo<g ref="char:EOLhyphen"/>dy. The Apothecary was immediately sent for, who by surveying the remainer of the Poppy-water, gave a guess at what she had taken, and concluded she would not recover her sences in eight and forty hours at least, and therefore he supposed never; From these words of the Apothecary's they concluded her stark Dead, and that night-laid her out, and though one of the persons employed about her observed that when she made any impression on her face the blood seemed to follow her finger, and by a kind of blush in her cheeks to be ashamed of their inhumanity; yet such was either their hast or their stupidity, that they took little or no notice of it: Her Husband being then from home was sent to, and acquainted with the suddainness of the disaster, who was much surprized thereat, but having suddain and urgent business to London, and withall considering his grief at home would do his wife no more good than at a distance, be resolved on his Journey, and the rather for the convenience of buying Mourning for himself and Family, giving order nevertheless at his departure, that the Funeral should be de<g ref="char:EOLhyphen"/>fer'd rill his return, which he resolved on the Sa<g ref="char:EOLhyphen"/>turday
+<pb n="5" facs="tcp:187749:4"/> following, this being Tuesday the 29th. of July, 1674. He was no sooner gone but his Wives relations, to whom the management of things were committed, began to consider that it was a great while to Saturday, and that the season of the year being hot, and the Corps fat it would be impos<g ref="char:EOLhyphen"/>sible to keep her, and thereupon resolved to bury her the morrow, which accordingly they did, though many people admired they would commit a person to the earth before they were fully satisfied she was Dead, especially in her Husbands absence, and contrary to his order. However it being none of their business, they offered nothing against, so that on the morrow all things being ready for the Fune<g ref="char:EOLhyphen"/>ral (but the woman her self) away they carried her to Church, and the Coffin being set down on two stools (as the manner of that Country is) one of the Bearers perceived both the Coffin and the stooles to stir, and was so unseasonably merry, thereat as to whisper to his Neighbour, and tell him that they had made Mistris Blunden's Coffin so short that she c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld not lie easie, for be plainly saw her stir. To which the other replyed that if there were any motion it pro<g ref="char:EOLhyphen"/>ceeded either from the weakness of the stools, or the crowds of people that Jogg'd them, and so there was no farther notice taken, but after the usual ceremonies of the Church she was committed to the earth: The Friday following toward the Evening some of the Schollars of the Town being at play in the Church Yard near her Grave, they fancied they heard a kind of hollow voice, as it were under ground, to which
+<pb n="6" facs="tcp:187749:5"/> laying their ears, and listning more attentively, they plainly heard somebody say.</p>
+            <q>Take me out of my Grave.</q>
+            <p>Which words the complaining voice repeated seve<g ref="char:EOLhyphen"/>ral times, intermixing them with fearful groans, and dismal shriekings. The Boyes wonderfully terrified hereat ran away, and told several persons what they had heard; but the Relations were so unauthentick, and the story so improbable, that it was by all either slighted as childish, or reproved as fabulous, but still they affirmed it so stedfastly, that on the next Day be<g ref="char:EOLhyphen"/>ing Saturday it came to the School-Masters ear, who immediately reproved some, and chastified others for raising such reports.</p>
+            <p>Whereupon the Boys being much incensed at their unjust Correction, went again the Saturday-noon to Mrs. Blundens Grave, and not without some fear lay<g ref="char:EOLhyphen"/>ing their earr to the ground, as formerly, they again heard the same words reiterated, if not with so distinct yet with a louder accent.</p>
+            <p>Hereat emboldened with truth and childish rage, they went again and testified what they had formerly asserted.</p>
+            <p>He somewhat startled hereat, began to consider of some passages and circumstance that were discoursed of in the Town, both at the time of her death, and her Funeral, and went presently to the place, and by the
+<pb n="7" facs="tcp:187749:5"/> direction of one of the boys, laying his ear to the ground, he was presently confirmed in the truth of all they had asserted, though the voice then seemed very faint and languishing: Wherefore he would immediately have persuaded the Clark to have dig<g ref="char:EOLhyphen"/>ged up the grave, but he replyed he durst not do it without Authority, so that before they could get Mi<g ref="char:EOLhyphen"/>nister and Church-Wardens together to consult about it, the afternoon was almost spent, but at last the grave being opened, and the Coffin, which they had no sooner done, but the Corps puffed up, as it had been a bladder, for the Joyner had made the Coffin so short, that they were fain to press upon her, and keep her down with a stick while they nailed her up.</p>
+            <p>And now surveying her body, they found it most lamentably beaten, which they concluded to proceed from the violence she did her self in that de<g ref="char:EOLhyphen"/>plorable an astonishment, but upon the most dili<g ref="char:EOLhyphen"/>gent scrutiny they could not apprehend that she had the least breath of life remaining, and therefore they again let her down into the Grave, intending on the morrow to send to the Corroner, whom they thought necessary to acquaint with such an accident, in the mean time laying a charge on some persons dili<g ref="char:EOLhyphen"/>gently to watch her that night, they left her. But the night being unseasonably wet, and now all hopes of her second recovery being past, 'tis believed those who were appointed to that office left her, for on the morrow morning at their return to the grave,
+<pb n="8" facs="tcp:187749:6"/> they found she had torn off great part of her Wind<g ref="char:EOLhyphen"/>ing sheet, scratched her self first in several places, and beaten her mouth so long, till it was all in gore blood.</p>
+            <p>This second neglect moved the hearts of all that heard of it, especially those that were concerned in the first Discovery, and the Coroner when he came to sit upon her, found by all circumstances that her Life was clearly thrown away, and therefore bound over several persons concerned therein, to answer it at the next Assizes; where some were Indicted as the Authors of her beath, by their over-hasty burying of h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r: and it would have gone very hard with them, but that a Physitian in the Town gave it upon oath, that when the Woman deceased, and was in her trance, he applyed a Looking-glass to her mouth a considerable <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, and yet could not discern the least breach to come from her; a tryal he had often experienced, and was never before deceived in, so that they all escaped with their Lives, but onely the Town had a considerable fine set upon them for their neglect.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187749:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
